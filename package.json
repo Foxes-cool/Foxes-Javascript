@@ -1,6 +1,6 @@
 {
   "name": "foxes.cool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An API for all your fox image needs",
   "main": "src/node.js",
   "types": "src/node.d.ts",

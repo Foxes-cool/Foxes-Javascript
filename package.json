@@ -29,7 +29,7 @@
     "api"
   ],
   "author": "Arthur Melton",
-  "license": "GPL-2.0-only",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Foxes-cool/Foxes-Javascript/issues"
   },
